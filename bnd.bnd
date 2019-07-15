@@ -1,0 +1,4 @@
+Bundle-Name: lr-sales-demo-rest
+Bundle-SymbolicName: com.liferay.sales.demo.rest
+Bundle-Version: 1.0.0
+Liferay-Configuration-Path: /configuration
